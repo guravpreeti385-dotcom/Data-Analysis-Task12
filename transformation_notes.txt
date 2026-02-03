@@ -1,0 +1,3 @@
+Transformation Notes – Task 12
+
+The Global Superstore dataset was imported into Power BI and transformed using Power Query. Unnecessary and redundant columns were removed, and column names were renamed to improve readability. Missing values in numeric and text fields were handled using appropriate replace and cleaning techniques. Data types for date, numeric, and categorical columns were corrected to ensure accurate calculations and visuals. Additional conditional columns such as Profit Status and Sales Category were created to support better business analysis. Date columns were further transformed to extract year and month information. After completing all transformations, the cleaned dataset was loaded into the data model for visualization and reporting.
